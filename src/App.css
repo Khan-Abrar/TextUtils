@@ -1,0 +1,18 @@
+body, html{
+    position: relative;
+    min-height:100vh;
+
+}
+body{
+    padding-bottom: 5%;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+} 
+
+.alert{
+    position: fixed;
+    width: 100%;
+}
